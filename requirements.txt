@@ -16,7 +16,7 @@ colorama==0.4.3
 cryptography==2.8
 cycler==0.10.0
 cytoolz==0.10.1
-dask==2.15.0
+dask==2021.10.0
 decorator==4.4.2
 defusedxml==0.6.0
 entrypoints==0.3

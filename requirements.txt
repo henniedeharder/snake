@@ -80,7 +80,7 @@ pyasn1-modules==0.2.7
 pycparser==2.20
 pyglet==1.5.0
 Pygments==2.6.1
-PyJWT==1.7.1
+PyJWT==2.4.0
 pyOpenSSL==19.1.0
 pyparsing==2.4.6
 pyreadline==2.1
